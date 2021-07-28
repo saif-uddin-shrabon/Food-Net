@@ -15,7 +15,6 @@ body{
     color: white;
 }
 #fotter-tittle-p{
-   
     color: white;
     text-align: center;
 }
@@ -104,12 +103,17 @@ section{
     background-color: black;
     height: 200px;
 }
-
 .tittle-colour{
     color: lightcoral;
 }
 .dp-c{
     color: lightpink;
+}
+.btn{
+    border: none;
+    padding:10px 20px;
+    font-size: 35px;
+    border-radius: 5px;
 }
 
 
