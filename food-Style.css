@@ -40,9 +40,8 @@ body{
 .half-width img{
     width: 100%;
 }
-.check{
-    background-image: url("images/shapes/aowsome.jpg");
-   background-repeat: round ;
+.try{
+    margin-left: 100px;
 }
 .mid-banner{
     background-image: url("images/shapes/Frame\ 56.jpg");
