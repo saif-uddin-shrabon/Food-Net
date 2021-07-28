@@ -95,13 +95,29 @@ section{
     padding-left: 2%;
     font-size: 20px
 }
+
 .bonous-point iframe {
     width: 100%;
+}
+input[type = text], input[type = submit] {
+ padding: 12px;
+ margin: 8px 0;
+ border: 1px solid #ccc;
+ border-radius: 5px;
+ box-sizing: border-box;
+}
+input[type=submit]{
+    background-color: #04AA6D ;
+    color: white;
+    border: none;
+}
+input[type=submit]:hover{
+    opacity: 0.8 ;
 }
 .bottom-banner{
     margin-top: 5%;
     background-color: black;
-    height: 200px;
+    height: 230px;
 }
 .tittle-colour{
     color: lightcoral;
