@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Recursive', sans-serif;
+}
+#word-colour{
+    color: orangered;
+    font-style: oblique;   
+}
+#bottom-mid-txt{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#fotter-tittle{
+    color: white;
+}
+#fotter-tittle-p{
+   
+    color: white;
+    text-align: center;
+}
+#dp-name{
+    text-align: center;
+    color: white;
+}
+.Batton{
+    color: white ;
+    background-image: linear-gradient(45deg, tomato,  lightSalmon);
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 2% ;
+    padding-left: 2%;
+    font-size: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+
+.mid-banner{
+    background-image: url("images/shapes/Frame\ 56.jpg");
+    background-repeat:  no-repeat;
+}
+section{
+    height: 350px;
+    padding-bottom: 200px;
+}
+.bottom-mid{
+    text-align: center;
+}
+.navbar{
+    padding: 1% 7%;
+    text-align: right;
+}
+.navbar a{
+    color: gray;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.container{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+
+}
+.container img{
+    margin: 5%;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.box{
+    box-shadow: 10px 10px 50px rgb(218, 218, 218);
+    border-radius: 10px;
+    height: 156%;
+    
+}
+.Bonous-banner{
+    background-image: url("images/shapes/Frame\ 59.jpg"); 
+    background-repeat: no-repeat;
+}
+.bonous-point{
+    float: left;
+    width: 40%;
+    margin-left: 2% ;
+    margin-top: 7%;
+    padding-left: 2%;
+    font-size: 20px
+}
+.bonous-point iframe {
+    width: 100%;
+}
+.bottom-banner{
+    margin-top: 5%;
+    background-color: black;
+    height: 200px;
+}
+
+.tittle-colour{
+    color: lightcoral;
+}
+.dp-c{
+    color: lightpink;
+}
+
+
+
+
+
+
